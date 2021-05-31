@@ -1,5 +1,5 @@
 # BlackJack
-O Black jack é um projeto para faculdade.
+O Black jack é um projeto para faculdade. Criado utilizando C# e JS.
 
 |   RA   |  NOME COMPLETO  |    CURSO    |    TURMA    |
 | :---         |     :---:      |      :---:      |          ---: |
